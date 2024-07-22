@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Poha",
+        "type": ["Breakfast", "All"],
+        "Price": 100,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/poha.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Vada Pav",
+        "type": ["Breakfast", "All"],
+        "Price": 50,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/vadapav.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Idli",
+        "type": ["Breakfast", "All"],
+        "Price": 120,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/idli.jpeg"
+    },
+
+    {
+        "id": 4,
+        "name": "Dosa",
+        "type": ["Breakfast", "All"],
+        "Price": 90,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/dosa.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Paratha",
+        "type": ["Breakfast", "All"],
+        "Price": 40,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/paratha.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Chana Masala",
+        "type": ["Lunch", "All"],
+        "Price": 130,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/chanamasala.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Paneer Butter Masala",
+        "type": ["Lunch", "All"],
+        "Price": 190,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/paneerbuttermasala.jpeg"
+    },
+
+    {
+        "id": 8,
+        "name": "Schezwan Fried Rice",
+        "type": ["Lunch", "All"],
+        "Price": 110,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/schezwanrice.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Veg Pulao",
+        "type": ["Lunch", "All"],
+        "Price": 60,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/vegpulao.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Aloo Ghobhi",
+        "type": ["Lunch", "All"],
+        "Price": 70,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/alooghobi.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Butter Chicken",
+        "type": ["Dinner", "All"],
+        "Price": 200,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/butterchicken.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Fada ni Khichdi",
+        "type": ["Dinner", "All"],
+        "Price": 60,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/khichdi.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Dal Makhani",
+        "type": ["Dinner", "All"],
+        "Price": 140,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/dalmakhani.jpg"
+    },
+
+    {
+        "id": 14,
+        "name": "Chole Bhature",
+        "type": ["Dinner", "All"],
+        "Price": 80,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/cholebhature.jpg"
+    },
+
+    {
+        "id": 15,
+        "name": "Palak Paneer",
+        "type": ["Dinner", "All"],
+        "Price": 180,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/palakpaneer.jpg"
+    },
+
+    {
+        "id": 16,
+        "name": "56 Bhog Thali",
+        "type": ["Special"],
+        "Price": 500,
+        "text": "Lorem ipsum dolor sit amet. Non internos ducimus eos neque illum sed corrupti dolores quo quia officia aut repellendus officia. Sit magnam doloribus id voluptatem sequi sit incidunt consequatur id unde rerum qui cumque dicta qui iusto veritatis.",
+        "image": "/public/Images/56bhogthali.jpg"
+    }
+    
+]
